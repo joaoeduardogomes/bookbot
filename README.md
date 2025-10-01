@@ -1,2 +1,3 @@
 # bookbot
-Repository for creating a bookbot in Boot.dev
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
